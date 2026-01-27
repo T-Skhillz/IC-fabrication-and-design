@@ -60,5 +60,5 @@ Day 2 of the Semiconductor Fabrication 101 course highlighted the complexity and
 
 ## References
 
-- Purdue University Semiconductor Fabrication 101 Course  
+- Purdue University Semiconductor Fabrication 101 Course [Semiconductor Fabrication 101 – Purdue University](https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101)  
 - Basic Semiconductor Manufacturing Concepts
