@@ -1,64 +1,70 @@
-# Day 2: Semiconductor Fabrication Process and Cleanroom Environment
+# Day 3: Photolithography and Pattern Transfer in Semiconductor Fabrication
 
 **Name:** Abiodun Oluwatimilehin  
 **Course:** IC Fab and Layout  
-**Module:** Semiconductor Fabrication 101 (Day 2)
+**Module:** Semiconductor Fabrication 101 (Day 3)
 
 ---
 
 ## Introduction
 
-Day 2 of the Semiconductor Fabrication 101 course focused on the practical process of manufacturing integrated circuits and the importance of maintaining a cleanroom environment. The session explained how silicon wafers are transformed into functional electronic devices through a series of controlled fabrication steps.
+Day 3 of the Semiconductor Fabrication 101 course focused on photolithography and pattern transfer, which are core processes in integrated circuit manufacturing. Photolithography enables the precise definition of circuit patterns on silicon wafers and determines the physical structure of transistors and interconnections.
 
 ---
 
-## Silicon Wafer Preparation
+## Concept of Photolithography
 
-The fabrication process begins with high-purity silicon wafers, which serve as the foundation for building electronic devices. The wafer surface must be extremely clean and smooth to allow accurate pattern transfer and layer formation.
+Photolithography is a process used to transfer geometric patterns from a photomask onto a silicon wafer using light. A light-sensitive material called photoresist is applied to the wafer surface. When exposed to ultraviolet (UV) light through a mask, specific regions of the photoresist are altered and developed to reveal the desired pattern.
 
----
-
-## Major Fabrication Steps
-
-The main steps involved in semiconductor fabrication include:
-
-- **Deposition:** Adding thin layers of materials such as oxide or metal onto the wafer.
-- **Photolithography:** Using light and photoresist to transfer circuit patterns onto the wafer.
-- **Etching:** Removing unwanted materials to create circuit structures.
-- **Doping (Ion Implantation):** Modifying the electrical properties of silicon by introducing impurities.
-- **Metallization:** Creating metal interconnections between devices on the chip.
-
-These steps are repeated multiple times to build complex integrated circuits layer by layer.
+This patterned photoresist serves as a protective layer for subsequent fabrication steps such as etching or doping.
 
 ---
 
-## Cleanroom Environment
+## Photomasks and Their Role
 
-A major lesson from Day 2 was the importance of cleanroom facilities in semiconductor fabrication. The fabrication process must take place in a controlled environment to prevent contamination by dust and particles.
+A photomask contains the circuit pattern that will be projected onto the wafer. It acts as a template that defines where materials will be added or removed during fabrication.
 
-Key cleanroom practices include:
-
-- Use of protective clothing such as gowns, gloves, and masks.
-- Controlled airflow, temperature, and humidity.
-- Strict handling procedures for wafers and equipment.
-
-Even microscopic contaminants can cause defects and reduce production yield.
+Key functions of photomasks include:
+- Defining transistor regions and interconnections.
+- Ensuring accuracy and repeatability of circuit patterns.
+- Enabling the creation of complex multilayer structures.
 
 ---
 
-## Importance of Process Control
+## Photoresist Types
 
-Process control ensures consistency and accuracy throughout fabrication. Each step must be carefully monitored to maintain quality and device performance. Errors at any stage can lead to defective chips and increased manufacturing costs.
+Two main types of photoresist were discussed:
+
+- **Positive photoresist:** Exposed areas become soluble and are removed during development.
+- **Negative photoresist:** Exposed areas harden and remain after development.
+
+The choice of photoresist affects resolution, accuracy, and processing conditions.
+
+---
+
+## Alignment and Resolution
+
+Accurate alignment between successive layers is critical in photolithography. Misalignment can lead to defective circuits and reduced yield. Resolution determines the smallest feature size that can be printed on the wafer and directly impacts device performance and scaling.
+
+Modern fabrication relies on advanced optical systems to achieve nanometer-scale patterning.
+
+---
+
+## Importance of Photolithography in IC Manufacturing
+
+Photolithography is one of the most important steps in semiconductor fabrication because it controls the geometry of every device on the chip. Errors in this step can affect the entire manufacturing process and result in faulty integrated circuits.
+
+This process is repeated many times during fabrication to create multiple layers of transistors and metal interconnections.
 
 ---
 
 ## Conclusion
 
-Day 2 of the Semiconductor Fabrication 101 course highlighted the complexity and precision of semiconductor manufacturing. From wafer preparation to cleanroom practices, every stage plays a critical role in producing reliable and functional integrated circuits.
+Day 3 of the Semiconductor Fabrication 101 course emphasized that photolithography is the foundation of pattern formation in semiconductor manufacturing. Through the use of photomasks, photoresist, and precise alignment, complex integrated circuits can be fabricated with high accuracy and reliability. Understanding this process is essential for studying IC design and layout.
 
 ---
 
 ## References
 
-- [Semiconductor Fabrication 101 – Purdue University](https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101)  
+- [Semiconductor Fabrication 101 – Purdue University](https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101)
 - Basic Semiconductor Manufacturing Concepts
