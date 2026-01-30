@@ -1,6 +1,6 @@
 # Day 5: Doping and Ion Implantation in Semiconductor Fabrication
 
-**Name:** Abiodun Oluwatimilehin Oluwole
+**Name:** Abiodun Oluwatimilehin Oluwole                                                            
 **Course:** IC Fab and Layout  
 **Module:** Semiconductor Fabrication 101 (Day 5)
 
