@@ -68,3 +68,5 @@ Together, they allow the transformation of a flat silicon wafer into a dense, mu
 
 - [Semiconductor Fabrication 101 – Purdue University](https://engineering.purdue.edu/online/programs/masters-degrees/semiconductors/semiconductor-fabrication-101)
 - Basic Semiconductor Manufacturing Concepts
+
+![CMP](image.png)
