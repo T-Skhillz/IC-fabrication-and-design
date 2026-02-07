@@ -39,7 +39,7 @@ CMP is the process that achieves **global planarization** of the wafer, removing
 The Preston equation models CMP:
 
 \[
-\text{MRR} = K_p \times P \times V
+MRR=Kp​⋅P⋅V
 \]
 
 Where:
